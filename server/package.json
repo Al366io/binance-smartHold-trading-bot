@@ -1,0 +1,33 @@
+{
+    "name": "binance-smartHold-trading-bot",
+    "version": "1.0.0",
+    "description": "bot to smartHold on binance",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Al366io/binance-smartHold-trading-bot.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "axios": "^1.4.0",
+        "dotenv": "^16.0.3"
+    },
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1",
+        "express": "^4.18.2",
+        "http": "^0.0.1-security",
+        "jsonwebtoken": "^9.0.0",
+        "nodemailer": "^6.9.1",
+        "pg": "^8.9.0",
+        "qs": "^6.11.0",
+        "sequelize": "^6.29.0",
+        "socket.io": "^4.6.1",
+        "ws": "^8.12.1"
+    }
+}

@@ -620,4 +620,4 @@ async function updateAverageSellPrice(lastSellprice) {
     return avg;
 }
 
-export { main, refreshParameters, buyOneEth };
+export { main, refreshParameters };
